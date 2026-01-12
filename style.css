@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    padding-top: 50px;
+    background-color: #383838;
+}
+input{
+    padding-right: 45px;
+    padding-block: 80px;
+    background-color: #383838;
+    color: white;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+.numbers button{
+    padding:15px 28px;
+}
+.specialcharac button{
+    padding:15px 27px;
+}
+.numbers2 button{
+    padding:15px 28px;
+}
+/* .percent{
+    padding:15px 25px;
+} */
+button{
+    border-radius: 20px;
+    background-color: #484848  ;
+    border-color: transparent;
+    color:white;
+    font-weight: 600;
+    font-size:15px;
+}
+div{
+    display: flex;
+    justify-content: center;
+    gap:25px;
+    margin-bottom: 15px;
+}
+.equalto{
+    background-color: #0066FF;
+}
+.eraser{
+    background-color: #CC3333;
+}
+.charac{
+    background-color: #666666;
+}
